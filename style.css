@@ -1,0 +1,97 @@
+li{
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    left:15px;  
+    margin: 5px;   
+}
+.logo{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:30px;
+    left: 5px;
+}
+h4{
+    position: absolute;
+    top:5%;
+    right:12%;
+}
+#register{
+    position: absolute;
+    top:7%;
+    right:3%;
+}
+nav{
+    background-color: lightseagreen;
+}
+body{
+    margin:0px;
+}
+form{
+    position: absolute;
+    right:9%;
+}
+input[type=email] {
+    width: 150%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  input[type=password] {
+    width: 150%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  
+.chatbox{
+    opacity: 0.4;
+    position: relative;
+    right: 250px;
+    top:20px;
+}
+.girl{
+    position: relative;
+    top:100px;
+    left:350px;
+    opacity: 0.8;
+}
+.button{
+    border-radius: 40px;
+    padding: 10px 24px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
+li a{
+    color:black;
+    text-decoration: none;
+}
+li a:hover{
+    color:blanchedalmond;
+    text-decoration: none;
+    
+}
+footer{
+    position:relative;
+    top:250px;
+    background-color: lightseagreen;
+    color: white;
+    padding: 20px;
+}
+.center_footer{
+    text-align: center;
+}
+.side_footer{
+    position: absolute;
+   right:10%;
+   top: 10%;
+}
+.side1_footer{
+    position: absolute;
+    left:3%;
+    top: 10%;
+ }
